@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Senior JavaScript Engineer (React, React Native) at Star IT Ltd. (https://staritltd.com/)
 
-- 🌱 I’m currently focusing on ..
+- 🌱 I’m currently focusing on Kahinik App
 
 - ⭐ You can find my open source projects [here.](https://github.com/ashiq0019?tab=repositories)
 
