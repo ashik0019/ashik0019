@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ashiq!</h1>
-<h3 align="center">Full Stack TypeScript Developer</h3>
+<h3 align="center">Full Stack JavaScript Developer</h3>
 
 - 🔭 I’m currently working as a Senior JavaScript Engineer (React, React Native) at Star IT Ltd. (https://staritltd.com/)
 
