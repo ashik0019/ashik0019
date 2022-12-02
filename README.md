@@ -18,6 +18,7 @@
 <a href="https://stackoverflow.com/users/19564509" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="4285052" height="30" width="40" /></a>
 <a href="https://fb.com/ashiq0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="ashiq0019" height="30" width="40" /></a>
 <a href="https://discord.com/users/ashiq0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="ashiq0019" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@techalienss" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="ashiq0019" height="30" width="40" /></a>
 </p>
 
 ### Skills
