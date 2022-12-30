@@ -7,7 +7,7 @@
 
 - ⭐ You can find my open source projects [here.](https://github.com/ashik0019?tab=repositories)
 
-- 💬 Ask me about **javaScript, linux and react (native), Laravel **
+- 💬 Ask me about **PHP, javaScript, linux, Mac OS, Xcode, and react (native), **
 
 - 📫 How to reach me **info@techaliens.com**
 
