@@ -56,6 +56,3 @@
 
 <a href="http://www.github.com/ashik0019"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik0019&stroke=ffffff&background=1c1917&ring=F0DB4F&fire=FF0000&currStreakNum=ffffff&currStreakLabel=F0DB4F&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ashik0019"><img src="https://activity-graph.herokuapp.com/graph?username=ashik0019&bg_color=1c1917&color=ffffff&line=F0DB4F&point=ffffff&area_color=F0DB4F&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
