@@ -56,3 +56,4 @@
 
 <a href="http://www.github.com/ashik0019"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik0019&stroke=ffffff&background=1c1917&ring=F0DB4F&fire=FF0000&currStreakNum=ffffff&currStreakLabel=F0DB4F&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![Ashiq's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashik0019&theme=github-compact)](https://github.com/ashik0019/github-readme-activity-graph)
