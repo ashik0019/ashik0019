@@ -49,11 +49,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik0019&show_icons=true&theme=dark&langs_count=8&title_color=F0DB4F&locale=en&layout=wide&hide_border=true" alt="ashik0019" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik0019&show_icons=true&theme=dark&title_color=F0DB4F&locale=en&hide_border=true" alt="ashik0019" /></p>
+<p >&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=ashik0019&show_icons=true&theme=dark&title_color=F0DB4F&locale=en&hide_border=true" alt="ashik0019" /></p>
 
 
-<a href="http://www.github.com/ashik0019"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik0019&stroke=ffffff&background=1c1917&ring=F0DB4F&fire=FF0000&currStreakNum=ffffff&currStreakLabel=F0DB4F&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ashik0019"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik0019&stroke=ffffff&background=1c1917&ring=F0DB4F&fire=FF0000&currStreakNum=ffffff&currStreakLabel=F0DB4F&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Ashiq's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashik0019&theme=github-compact)](https://github.com/ashik0019/github-readme-activity-graph)
+</p>
