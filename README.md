@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Senior JavaScript Engineer (React, React Native) at Kahinik LLC. (https://kahinik.com/)
 
-- 🌱 I’m currently focusing on Kahinik App
+- 🌱 I’m currently focusing on Kahinik Audiobook App
 
 - ⭐ You can find my open source projects [here.](https://github.com/ashik0019?tab=repositories)
 
