@@ -12,7 +12,7 @@
 - 📫 How to reach me **info@techaliens.com**
 
 
-### Contact With Me
+### Contact With Me:
 <p align="left">
 <a href="https://twitter.com/ashiq0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="ashiq0019" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19564509" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="4285052" height="30" width="40" /></a>
