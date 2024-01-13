@@ -10,6 +10,7 @@
 - 💬 Ask me about ***PHP, javaScript, TypeScript, linux, Mac OS, Xcode, Android Studio and react (native)***
 
 - 📫 How to reach me ***info@techaliens.com*** ||  ***exappdev@gmail.com***
+
 ### Contact With Me:
 <p align="left">
 <a href="https://twitter.com/ashiq0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="ashiq0019" height="30" width="40" /></a>
