@@ -40,7 +40,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-
 <p >&nbsp;
 <img style="width: 38%;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik0019&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="Ashiq" />
 <img style="width: 53%; " align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik0019&stroke=ffffff&background=1c1917&ring=F0DB4F&fire=FF0000&currStreakNum=ffffff&currStreakLabel=F0DB4F&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
