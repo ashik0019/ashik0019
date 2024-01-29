@@ -4,7 +4,6 @@
 - 🌱 I’m currently focusing on Kahinik Audiobook App.
 - ⭐ You can find my open source projects [here.](https://github.com/ashik0019?tab=repositories)
 - 💬 Ask me about ***PHP, javaScript, TypeScript, linux, Mac OS, Xcode, Android Studio and react (native)***
-
 - 📫 How to reach me ***info@techaliens.com*** ||  ***exappdev@gmail.com***
 ### Contact With Me:
 <p align="left">
