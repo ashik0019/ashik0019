@@ -11,7 +11,6 @@
   
 - 📫 How to reach me ***info@techaliens.com*** ||  ***exappdev@gmail.com***
   
-
 ### Contact With Me:
 <p align="left">
 <a href="https://stackoverflow.com/users/19564509" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="4285052" height="30" width="40" /></a>
