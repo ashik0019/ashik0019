@@ -27,6 +27,9 @@
   <a href="https://www.youtube.com/@techalienss" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="YouTube" height="30" width="40">
   </a>
+   <a href="https://linkedin.com/in/ashik0019" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="30" width="40">
+  </a>
   <a href="https://twitter.com/ashiq0019" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" height="30" width="40">
   </a>
