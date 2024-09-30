@@ -55,3 +55,12 @@
 <img style="width: 93%; top:20px;" align="left"  src="https://github-readme-stats.vercel.app/api?username=ashik0019&show_icons=true&theme=dark&title_color=F0DB4F&locale=en&hide_border=true" alt="ashik0019" />
 </p>
 
+<div align="center">
+  
+
+<h1 style="color:red">Profile Visitor</h1>
+
+![Visitor Count](https://profile-counter.glitch.me/ashik0019/count.svg)
+
+</div>
+
