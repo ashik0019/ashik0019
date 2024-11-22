@@ -10,7 +10,7 @@
   🌱 I’m focusing on the Kahinik Audiobook App.<br>
   ⭐ Check out my open-source projects <a href="https://github.com/ashik0019?tab=repositories" target="_blank">here</a>.<br>
   💬 Ask me about <b>PHP, JavaScript, TypeScript, Linux, macOS, Xcode, Android Studio, and React (Native)</b><br>
-  📫 Reach me at <a href="mailto:exappdev@gmail.com">exappdev@gmail.com</a>
+  📫 Reach me at <a href="mailto:exappdev@gmail.com">exappdev@gmail.com</a> || <a href="mailto:ashiq@techaliens.com">ashiq@techaliens.com</a>
 </p>
 
 <h3 align="left">Contact Me:</h3>
