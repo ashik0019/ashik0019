@@ -1,7 +1,6 @@
 <h1 align="center" style="color: red;">Hello, I'm Ashiq!</h1>
 <h3 align="center">Full Stack JavaScript Developer</h3>
 
-
 <p align="left">
   🔭 I’m currently working as a Senior JavaScript Engineer (React, React Native) at 
   <a href="https://kahinik.com/" target="_blank">Kahinik LLC.</a>
