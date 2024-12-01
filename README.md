@@ -5,7 +5,6 @@
   <a href="https://kahinik.com/" target="_blank">Kahinik LLC.</a>
 </p>
 
-
 <p align="left">
   🌱 I’m focusing on the Kahinik Audiobook App.<br>
   ⭐ Check out my open-source projects <a href="https://github.com/ashik0019?tab=repositories" target="_blank">here</a>.<br>
