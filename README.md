@@ -87,16 +87,10 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik0019&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="Top Languages" style="width: 45%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik0019&stroke=ffffff&background=1c1917&ring=F0DB4F&fire=FF0000&currStreakNum=ffffff&currStreakLabel=F0DB4F&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" style="width: 53%;">
-</p>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ashik0019&show_icons=true&theme=dark&title_color=F0DB4F&locale=en&hide_border=true" alt="GitHub Stats" style="width: 95%;">
 </p>
 
-<div align="center">
-  <h3 style="color: red;">Profile Visitor</h3>
-  <img src="https://profile-counter.glitch.me/ashik0019/count.svg" alt="Visitor Count">
-</div>
+
+![Ashiq's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashik0019&theme=react-dark&hide_border=true)
