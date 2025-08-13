@@ -96,4 +96,6 @@
 ![Ashiq's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashik0019&theme=react-dark&hide_border=true)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Profile views](https://komarev.com/ghpvc/?username=ashik0019&label=Profile%20views&color=F0DB4F&style=flat)
+
 
