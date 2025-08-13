@@ -95,7 +95,17 @@
 
 ![Ashiq's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashik0019&theme=react-dark&hide_border=true)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-![Profile views](https://komarev.com/ghpvc/?username=ashik0019&label=Profile%20views&color=F0DB4F&style=flat)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+  <img src="https://komarev.com/ghpvc/?username=ashik0019&label=Profile%20views&color=F0DB4F&style=flat" alt="Profile views">
+</p>
+
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/techaliens) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
