@@ -2,7 +2,6 @@
 
 
 
-
 <h1 align="center" style="color: red;">Hello, I'm Ashiq!</h1>
 <h3 align="center">Full Stack JavaScript Developer</h3>
 <p align="left">
